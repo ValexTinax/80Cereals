@@ -2,7 +2,7 @@
 Analysis on 80 type of cereals, to find  the best Manufacture
 
 DATA sheet:
-Use of IF Function for
+Use of IF Function
 To find the QUALITY of Product based on customer satisfied from Rating column;
 To extract the complete Word if the product will be prepare COLD or Hot and the complete name of Manufacture;
 
